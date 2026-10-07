@@ -1,0 +1,920 @@
+{
+  "method": {
+    "unit": "sentence",
+    "polarity": "VADER (Hutto & Gilbert, 2014), scored per sentence to avoid document-length saturation; thresholds +/-0.05",
+    "emotion": "NRC EmoLex (Mohammad & Turney, 2013), 8 Plutchik emotions, mean token share (dominated by food vocabulary)",
+    "agreement": "Cohen's kappa vs. a 3-class polarity projection of the cards' emotional_tone labels",
+    "language_filter": "English subset via stopword-ratio heuristic (>6% function words)",
+    "limitations": "Lexicon methods do not capture sarcasm, irony or broader context; English subset only.",
+    "note": "Computed on the demo stories with the same method as the platform; the lexicon itself is not included."
+  },
+  "n_total": 24,
+  "n_analyzed": 24,
+  "n_sentences": 128,
+  "sentence_polarity": {
+    "positive": {
+      "n": 48,
+      "pct": 37.5
+    },
+    "neutral": {
+      "n": 70,
+      "pct": 54.7
+    },
+    "negative": {
+      "n": 10,
+      "pct": 7.8
+    }
+  },
+  "sentence_compound_mean": 0.121,
+  "sentence_compound_histogram": [
+    {
+      "lo": -1.0,
+      "hi": -0.8,
+      "n": 0
+    },
+    {
+      "lo": -0.8,
+      "hi": -0.6,
+      "n": 1
+    },
+    {
+      "lo": -0.6,
+      "hi": -0.4,
+      "n": 3
+    },
+    {
+      "lo": -0.4,
+      "hi": -0.2,
+      "n": 4
+    },
+    {
+      "lo": -0.2,
+      "hi": 0.0,
+      "n": 3
+    },
+    {
+      "lo": 0.0,
+      "hi": 0.2,
+      "n": 77
+    },
+    {
+      "lo": 0.2,
+      "hi": 0.4,
+      "n": 17
+    },
+    {
+      "lo": 0.4,
+      "hi": 0.6,
+      "n": 13
+    },
+    {
+      "lo": 0.6,
+      "hi": 0.8,
+      "n": 8
+    },
+    {
+      "lo": 0.8,
+      "hi": 1.0,
+      "n": 2
+    }
+  ],
+  "doc_polarity_by_sentence": {
+    "positive": {
+      "n": 17,
+      "pct": 70.8
+    },
+    "neutral": {
+      "n": 6,
+      "pct": 25.0
+    },
+    "negative": {
+      "n": 1,
+      "pct": 4.2
+    }
+  },
+  "saturation": {
+    "doc_level": {
+      "positive": {
+        "n": 19,
+        "pct": 79.2
+      },
+      "neutral": {
+        "n": 1,
+        "pct": 4.2
+      },
+      "negative": {
+        "n": 4,
+        "pct": 16.7
+      }
+    },
+    "sentence_level": {
+      "positive": {
+        "n": 48,
+        "pct": 37.5
+      },
+      "neutral": {
+        "n": 70,
+        "pct": 54.7
+      },
+      "negative": {
+        "n": 10,
+        "pct": 7.8
+      }
+    }
+  },
+  "emotions": [
+    {
+      "key": "joy",
+      "mean_share": 45.6,
+      "docs_with_pct": 83.3
+    },
+    {
+      "key": "trust",
+      "mean_share": 45.2,
+      "docs_with_pct": 79.2
+    },
+    {
+      "key": "anticipation",
+      "mean_share": 39.7,
+      "docs_with_pct": 79.2
+    },
+    {
+      "key": "sadness",
+      "mean_share": 14.2,
+      "docs_with_pct": 41.7
+    },
+    {
+      "key": "surprise",
+      "mean_share": 13.0,
+      "docs_with_pct": 33.3
+    },
+    {
+      "key": "fear",
+      "mean_share": 5.8,
+      "docs_with_pct": 16.7
+    },
+    {
+      "key": "disgust",
+      "mean_share": 5.7,
+      "docs_with_pct": 20.8
+    },
+    {
+      "key": "anger",
+      "mean_share": 2.6,
+      "docs_with_pct": 12.5
+    }
+  ],
+  "agreement": {
+    "cohens_kappa": 0.25,
+    "observed_agreement": 0.625,
+    "strength": "fair",
+    "n": 24
+  },
+  "per_doc": [
+    {
+      "i": 1,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1587,
+      "doc_compound": 0.802,
+      "n_sentences": 6,
+      "sent_pos": 2,
+      "sent_neu": 4,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 1.0,
+        "joy": 1.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 1.0,
+        "joy": 1.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 2,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.3594,
+      "doc_compound": 0.7695,
+      "n_sentences": 6,
+      "sent_pos": 5,
+      "sent_neu": 0,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.3333,
+        "joy": 0.3333,
+        "trust": 0.6667,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.1667,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.3333,
+        "joy": 0.3333,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.1667,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 3,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1724,
+      "doc_compound": 0.8621,
+      "n_sentences": 5,
+      "sent_pos": 1,
+      "sent_neu": 4,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.4286,
+        "joy": 0.5714,
+        "trust": 0.4286,
+        "surprise": 0.0,
+        "fear": 0.1429,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.4286,
+        "joy": 0.5714,
+        "trust": 0.2857,
+        "surprise": 0.0,
+        "fear": 0.1429,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 4,
+      "polarity": "neutral",
+      "mean_sentence_compound": -0.0311,
+      "doc_compound": -0.2584,
+      "n_sentences": 6,
+      "sent_pos": 2,
+      "sent_neu": 2,
+      "sent_neg": 2,
+      "emotions": {
+        "anticipation": 0.0,
+        "joy": 0.25,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.5,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.0,
+        "joy": 0.25,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.5,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 5,
+      "polarity": "neutral",
+      "mean_sentence_compound": 0.019,
+      "doc_compound": 0.0572,
+      "n_sentences": 6,
+      "sent_pos": 1,
+      "sent_neu": 5,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.5,
+        "joy": 1.0,
+        "trust": 1.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.5,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.5,
+        "joy": 1.0,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.5,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 6,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1717,
+      "doc_compound": 0.5106,
+      "n_sentences": 6,
+      "sent_pos": 3,
+      "sent_neu": 3,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.4,
+        "joy": 0.6,
+        "trust": 0.4,
+        "surprise": 0.2,
+        "fear": 0.0,
+        "sadness": 0.2,
+        "disgust": 0.0,
+        "anger": 0.2
+      },
+      "emotions_nofood": {
+        "anticipation": 0.4,
+        "joy": 0.6,
+        "trust": 0.2,
+        "surprise": 0.2,
+        "fear": 0.0,
+        "sadness": 0.2,
+        "disgust": 0.0,
+        "anger": 0.2
+      },
+      "food_n": 1
+    },
+    {
+      "i": 7,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1966,
+      "doc_compound": 0.6439,
+      "n_sentences": 5,
+      "sent_pos": 3,
+      "sent_neu": 1,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.0,
+        "joy": 0.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.0,
+        "joy": 0.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 8,
+      "polarity": "neutral",
+      "mean_sentence_compound": -0.0401,
+      "doc_compound": -0.2415,
+      "n_sentences": 6,
+      "sent_pos": 0,
+      "sent_neu": 5,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.0,
+        "joy": 1.0,
+        "trust": 1.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.0,
+        "joy": 1.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 9,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1557,
+      "doc_compound": 0.7783,
+      "n_sentences": 5,
+      "sent_pos": 1,
+      "sent_neu": 4,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.5,
+        "joy": 0.75,
+        "trust": 0.25,
+        "surprise": 0.25,
+        "fear": 0.0,
+        "sadness": 0.5,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.5,
+        "joy": 0.75,
+        "trust": 0.25,
+        "surprise": 0.25,
+        "fear": 0.0,
+        "sadness": 0.5,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 10,
+      "polarity": "neutral",
+      "mean_sentence_compound": 0.0357,
+      "doc_compound": 0.2144,
+      "n_sentences": 6,
+      "sent_pos": 1,
+      "sent_neu": 5,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.1667,
+        "joy": 0.6667,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.1667,
+        "disgust": 0.1667,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.1667,
+        "joy": 0.6667,
+        "trust": 0.3333,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.1667,
+        "disgust": 0.1667,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 11,
+      "polarity": "negative",
+      "mean_sentence_compound": -0.1437,
+      "doc_compound": -0.8402,
+      "n_sentences": 5,
+      "sent_pos": 0,
+      "sent_neu": 4,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.75,
+        "joy": 0.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.5,
+        "sadness": 0.5,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.75,
+        "joy": 0.0,
+        "trust": 0.0,
+        "surprise": 0.0,
+        "fear": 0.5,
+        "sadness": 0.5,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 12,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1835,
+      "doc_compound": 0.7964,
+      "n_sentences": 6,
+      "sent_pos": 3,
+      "sent_neu": 3,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.5,
+        "joy": 0.25,
+        "trust": 0.5,
+        "surprise": 0.25,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.5,
+        "joy": 0.25,
+        "trust": 0.5,
+        "surprise": 0.25,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 13,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1402,
+      "doc_compound": 0.3506,
+      "n_sentences": 5,
+      "sent_pos": 2,
+      "sent_neu": 3,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.25,
+        "joy": 0.25,
+        "trust": 0.75,
+        "surprise": 0.0,
+        "fear": 0.25,
+        "sadness": 0.5,
+        "disgust": 0.25,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.25,
+        "joy": 0.25,
+        "trust": 0.75,
+        "surprise": 0.0,
+        "fear": 0.25,
+        "sadness": 0.5,
+        "disgust": 0.25,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 14,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.2016,
+      "doc_compound": 0.8934,
+      "n_sentences": 6,
+      "sent_pos": 2,
+      "sent_neu": 4,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.0,
+        "joy": 1.0,
+        "trust": 0.0,
+        "surprise": 1.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.0,
+        "joy": 1.0,
+        "trust": 0.0,
+        "surprise": 1.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 15,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.1497,
+      "doc_compound": 0.7096,
+      "n_sentences": 6,
+      "sent_pos": 2,
+      "sent_neu": 4,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.6667,
+        "joy": 0.5,
+        "trust": 0.6667,
+        "surprise": 0.1667,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.1667
+      },
+      "emotions_nofood": {
+        "anticipation": 0.6667,
+        "joy": 0.5,
+        "trust": 0.3333,
+        "surprise": 0.1667,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.1667
+      },
+      "food_n": 2
+    },
+    {
+      "i": 16,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.2196,
+      "doc_compound": 0.7506,
+      "n_sentences": 5,
+      "sent_pos": 4,
+      "sent_neu": 1,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.2,
+        "joy": 0.2,
+        "trust": 0.6,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.2,
+        "disgust": 0.2,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.2,
+        "joy": 0.2,
+        "trust": 0.4,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.2,
+        "disgust": 0.2,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 17,
+      "polarity": "neutral",
+      "mean_sentence_compound": 0.0187,
+      "doc_compound": -0.1531,
+      "n_sentences": 5,
+      "sent_pos": 2,
+      "sent_neu": 2,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.0,
+        "joy": 0.0,
+        "trust": 0.6667,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.3333,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.0,
+        "joy": 0.0,
+        "trust": 0.6667,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.3333,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 18,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.2187,
+      "doc_compound": 0.6542,
+      "n_sentences": 4,
+      "sent_pos": 2,
+      "sent_neu": 2,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.25,
+        "joy": 0.5,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.25,
+        "anger": 0.25
+      },
+      "emotions_nofood": {
+        "anticipation": 0.25,
+        "joy": 0.5,
+        "trust": 0.25,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.25,
+        "anger": 0.25
+      },
+      "food_n": 1
+    },
+    {
+      "i": 19,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.2211,
+      "doc_compound": 0.8144,
+      "n_sentences": 4,
+      "sent_pos": 3,
+      "sent_neu": 0,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.5,
+        "joy": 0.25,
+        "trust": 0.5,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.5,
+        "joy": 0.25,
+        "trust": 0.25,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 20,
+      "polarity": "neutral",
+      "mean_sentence_compound": -0.0076,
+      "doc_compound": -0.0382,
+      "n_sentences": 5,
+      "sent_pos": 0,
+      "sent_neu": 5,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 1.0,
+        "joy": 0.3333,
+        "trust": 0.3333,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 1.0,
+        "joy": 0.3333,
+        "trust": 0.3333,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 21,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.2096,
+      "doc_compound": 0.8047,
+      "n_sentences": 4,
+      "sent_pos": 2,
+      "sent_neu": 1,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.3333,
+        "joy": 0.0,
+        "trust": 0.3333,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.3333,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.3333,
+        "joy": 0.0,
+        "trust": 0.3333,
+        "surprise": 0.0,
+        "fear": 0.0,
+        "sadness": 0.3333,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 22,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.2216,
+      "doc_compound": 0.7337,
+      "n_sentences": 6,
+      "sent_pos": 4,
+      "sent_neu": 2,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 1.0,
+        "joy": 0.5,
+        "trust": 0.0,
+        "surprise": 0.5,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 1.0,
+        "joy": 0.5,
+        "trust": 0.0,
+        "surprise": 0.5,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 0
+    },
+    {
+      "i": 23,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.0636,
+      "doc_compound": 0.3182,
+      "n_sentences": 5,
+      "sent_pos": 1,
+      "sent_neu": 4,
+      "sent_neg": 0,
+      "emotions": {
+        "anticipation": 0.25,
+        "joy": 0.5,
+        "trust": 0.75,
+        "surprise": 0.25,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.25,
+        "joy": 0.5,
+        "trust": 0.5,
+        "surprise": 0.25,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.0,
+        "anger": 0.0
+      },
+      "food_n": 1
+    },
+    {
+      "i": 24,
+      "polarity": "positive",
+      "mean_sentence_compound": 0.0572,
+      "doc_compound": 0.2782,
+      "n_sentences": 5,
+      "sent_pos": 2,
+      "sent_neu": 2,
+      "sent_neg": 1,
+      "emotions": {
+        "anticipation": 0.5,
+        "joy": 0.5,
+        "trust": 0.5,
+        "surprise": 0.5,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.5,
+        "anger": 0.0
+      },
+      "emotions_nofood": {
+        "anticipation": 0.5,
+        "joy": 0.5,
+        "trust": 0.5,
+        "surprise": 0.5,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "disgust": 0.5,
+        "anger": 0.0
+      },
+      "food_n": 0
+    }
+  ],
+  "nofood_variant": "emotions_nofood = the same NRC token shares as `emotions`, with the word 'food' removed from the trust list only (NRC tags it trust and joy); food_n = occurrences of 'food'."
+}

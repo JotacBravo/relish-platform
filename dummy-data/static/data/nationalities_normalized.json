@@ -1,0 +1,94 @@
+{
+  "mapping": {
+    "German": "German",
+    "french": "French",
+    "Italian": "Italian",
+    "spanish": "Spanish",
+    "german": "German",
+    "Portugal": "Portuguese",
+    "Spanish": "Spanish",
+    "English": "British",
+    "Portuguese": "Portuguese",
+    "italian": "Italian",
+    "portuguese": "Portuguese",
+    "British": "British",
+    "Danish": "Danish",
+    "French": "French",
+    "Spain": "Spanish",
+    "Irish": "Irish",
+    "Brazilian": "Brazilian",
+    "Turkish": "Turkish",
+    "Albanian": "Albanian",
+    "Polish": "Polish",
+    "Indian": "Indian"
+  },
+  "counts": {
+    "German": 2,
+    "French": 2,
+    "Italian": 2,
+    "Spanish": 3,
+    "Portuguese": 3,
+    "British": 2,
+    "Danish": 1,
+    "Irish": 1,
+    "Brazilian": 1,
+    "Turkish": 1,
+    "Albanian": 1,
+    "Polish": 1,
+    "Indian": 1
+  },
+  "top": [
+    [
+      "Spanish",
+      3
+    ],
+    [
+      "Portuguese",
+      3
+    ],
+    [
+      "German",
+      2
+    ],
+    [
+      "French",
+      2
+    ],
+    [
+      "Italian",
+      2
+    ],
+    [
+      "British",
+      2
+    ],
+    [
+      "Danish",
+      1
+    ],
+    [
+      "Irish",
+      1
+    ],
+    [
+      "Brazilian",
+      1
+    ],
+    [
+      "Turkish",
+      1
+    ],
+    [
+      "Albanian",
+      1
+    ],
+    [
+      "Polish",
+      1
+    ],
+    [
+      "Indian",
+      1
+    ]
+  ]
+}

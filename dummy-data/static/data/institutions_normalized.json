@@ -1,0 +1,69 @@
+{
+  "mapping": {
+    "TU Munich": "Technical University of Munich",
+    "University of Gastronomic Sciences": "University of Gastronomic Sciences",
+    "University of Milan": "University of Milan",
+    "Sorbonne University": "Sorbonne University",
+    "Universidad de Alicante": "University of Alicante",
+    "ULisboa": "University of Lisbon",
+    "Durham University": "Durham University",
+    "Universidade de Lisboa": "University of Lisbon",
+    "Università degli Studi di Milano": "University of Milan",
+    "Technical University of Munich": "Technical University of Munich",
+    "Roskilde University": "Roskilde University",
+    "University of Alicante": "University of Alicante",
+    "University of Lisbon": "University of Lisbon",
+    "Sorbonne Université": "Sorbonne University",
+    "University College Cork": "University College Cork",
+    "UCC": "University College Cork"
+  },
+  "counts": {
+    "Technical University of Munich": 2,
+    "University of Gastronomic Sciences": 1,
+    "University of Milan": 2,
+    "Sorbonne University": 2,
+    "University of Alicante": 2,
+    "University of Lisbon": 3,
+    "Durham University": 1,
+    "Roskilde University": 1,
+    "University College Cork": 2
+  },
+  "top": [
+    [
+      "University of Lisbon",
+      3
+    ],
+    [
+      "Technical University of Munich",
+      2
+    ],
+    [
+      "University of Milan",
+      2
+    ],
+    [
+      "Sorbonne University",
+      2
+    ],
+    [
+      "University of Alicante",
+      2
+    ],
+    [
+      "University College Cork",
+      2
+    ],
+    [
+      "University of Gastronomic Sciences",
+      1
+    ],
+    [
+      "Durham University",
+      1
+    ],
+    [
+      "Roskilde University",
+      1
+    ]
+  ]
+}

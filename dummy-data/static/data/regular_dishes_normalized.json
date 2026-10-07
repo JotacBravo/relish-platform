@@ -1,0 +1,128 @@
+{
+  "mapping": {
+    "Omelet": "Omelette",
+    "Rice": "Rice",
+    "Salmon": "Salmon",
+    "Burger": "Burger",
+    "Pasta": "Pasta",
+    "Lentils": "Lentils",
+    "Pasta with tomato sauce": "Pasta",
+    "Carbonara": "Carbonara",
+    "Pizza": "Pizza",
+    "Fried Rice": "Fried Rice",
+    "chicken with rice": "Chicken and Rice",
+    "Couscous": "Couscous",
+    "Omelette": "Omelette",
+    "salad": "Salad",
+    "Salad": "Salad",
+    "Soup": "Soup",
+    "Risotto": "Risotto",
+    "Green salad": "Salad",
+    "Curry": "Curry",
+    "Stew": "Stew",
+    "Chicken and Rice": "Chicken and Rice",
+    "pasta": "Pasta",
+    "Noodles": "Noodles",
+    "Tacos": "Tacos",
+    "Sandwich": "Sandwich"
+  },
+  "counts": {
+    "Omelette": 2,
+    "Rice": 1,
+    "Salmon": 1,
+    "Burger": 1,
+    "Pasta": 3,
+    "Lentils": 1,
+    "Carbonara": 1,
+    "Pizza": 1,
+    "Fried Rice": 1,
+    "Chicken and Rice": 2,
+    "Couscous": 1,
+    "Salad": 3,
+    "Soup": 1,
+    "Risotto": 1,
+    "Curry": 1,
+    "Stew": 1,
+    "Noodles": 1,
+    "Tacos": 1,
+    "Sandwich": 1
+  },
+  "top": [
+    [
+      "Pasta",
+      3
+    ],
+    [
+      "Salad",
+      3
+    ],
+    [
+      "Omelette",
+      2
+    ],
+    [
+      "Chicken and Rice",
+      2
+    ],
+    [
+      "Rice",
+      1
+    ],
+    [
+      "Salmon",
+      1
+    ],
+    [
+      "Burger",
+      1
+    ],
+    [
+      "Lentils",
+      1
+    ],
+    [
+      "Carbonara",
+      1
+    ],
+    [
+      "Pizza",
+      1
+    ],
+    [
+      "Fried Rice",
+      1
+    ],
+    [
+      "Couscous",
+      1
+    ],
+    [
+      "Soup",
+      1
+    ],
+    [
+      "Risotto",
+      1
+    ],
+    [
+      "Curry",
+      1
+    ],
+    [
+      "Stew",
+      1
+    ],
+    [
+      "Noodles",
+      1
+    ],
+    [
+      "Tacos",
+      1
+    ],
+    [
+      "Sandwich",
+      1
+    ]
+  ]
+}

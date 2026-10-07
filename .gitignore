@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+node_modules
+
+# local configuration (the *.env.example files are versioned)
+.env
+.env.*
+!.env.example
+
+# build output
+build/
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# output of the processing scripts, and the NRC lexicon (not redistributable)
+processing/output/
+NRC-Emotion-Lexicon*
+
+# service-account keys
+*credentials*.json
+*service-account*.json
+
+# logs and OS files
+*.log
+*.swp
+.DS_Store

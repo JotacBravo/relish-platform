@@ -1,0 +1,152 @@
+{
+  "mapping": {
+    "Schnitzel": "Schnitzel",
+    "pizza napoletana": "Pizza",
+    "Pasta": "Pasta",
+    "Cozido": "Cozido",
+    "Pastel de Nata": "Pastel de Nata",
+    "Tiramisu": "Tiramisu",
+    "Croissant": "Croissant",
+    "Arroz de Pato": "Arroz de Pato",
+    "Carbonara": "Carbonara",
+    "Lasagna": "Lasagna",
+    "Pasta carbonara": "Carbonara",
+    "Francesinha": "Francesinha",
+    "Bacalhau": "Bacalhau",
+    "Hamburger": "Hamburger",
+    "Curry": "Curry",
+    "Fish and chips": "Fish and Chips",
+    "fish & chips": "Fish and Chips",
+    "pizza": "Pizza",
+    "Pizza Margherita": "Pizza",
+    "Pizza": "Pizza",
+    "Jamon": "Jamon",
+    "Paella": "Paella",
+    "Fish and Chips": "Fish and Chips",
+    "Tortilla de patatas": "Tortilla",
+    "Bacalhau à Brás": "Bacalhau",
+    "Paella valenciana": "Paella",
+    "Risotto": "Risotto",
+    "Sushi": "Sushi",
+    "bacalhau": "Bacalhau",
+    "Döner kebab": "Doner",
+    "Doner": "Doner",
+    "Gazpacho": "Gazpacho",
+    "paella": "Paella",
+    "Tortilla": "Tortilla"
+  },
+  "counts": {
+    "Schnitzel": 1,
+    "Pizza": 4,
+    "Pasta": 1,
+    "Cozido": 1,
+    "Pastel de Nata": 1,
+    "Tiramisu": 1,
+    "Croissant": 1,
+    "Arroz de Pato": 1,
+    "Carbonara": 2,
+    "Lasagna": 1,
+    "Francesinha": 1,
+    "Bacalhau": 3,
+    "Hamburger": 1,
+    "Curry": 1,
+    "Fish and Chips": 3,
+    "Jamon": 1,
+    "Paella": 3,
+    "Tortilla": 2,
+    "Risotto": 1,
+    "Sushi": 1,
+    "Doner": 2,
+    "Gazpacho": 1
+  },
+  "top": [
+    [
+      "Pizza",
+      4
+    ],
+    [
+      "Bacalhau",
+      3
+    ],
+    [
+      "Fish and Chips",
+      3
+    ],
+    [
+      "Paella",
+      3
+    ],
+    [
+      "Carbonara",
+      2
+    ],
+    [
+      "Tortilla",
+      2
+    ],
+    [
+      "Doner",
+      2
+    ],
+    [
+      "Schnitzel",
+      1
+    ],
+    [
+      "Pasta",
+      1
+    ],
+    [
+      "Cozido",
+      1
+    ],
+    [
+      "Pastel de Nata",
+      1
+    ],
+    [
+      "Tiramisu",
+      1
+    ],
+    [
+      "Croissant",
+      1
+    ],
+    [
+      "Arroz de Pato",
+      1
+    ],
+    [
+      "Lasagna",
+      1
+    ],
+    [
+      "Francesinha",
+      1
+    ],
+    [
+      "Hamburger",
+      1
+    ],
+    [
+      "Curry",
+      1
+    ],
+    [
+      "Jamon",
+      1
+    ],
+    [
+      "Risotto",
+      1
+    ],
+    [
+      "Sushi",
+      1
+    ],
+    [
+      "Gazpacho",
+      1
+    ]
+  ]
+}

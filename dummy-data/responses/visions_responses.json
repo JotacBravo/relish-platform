@@ -1,0 +1,338 @@
+[
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-01T00:00:00.000Z",
+    "responses": {
+      "birth_year": 2003,
+      "gender": "Female",
+      "nationality": "portuguese",
+      "residence_country": "Portugal",
+      "institution": "University of Lisbon",
+      "program": "Doctoral degree",
+      "field_of_study": "Education",
+      "day_in_life_2050": "In my typical day in 2050 I wake up early on Sunday and walk to the shared oven at the end of our street. Every building has a slot, and today is ours. I bring the dough I left rising overnight and talk with the neighbours while it bakes. Most weekdays I eat quick meals from the canteen at work, but Sunday is different. We bring the bread home, open a tin of sardines, slice tomatoes from the balcony and eat slowly with my flatmates. It feels like the oldest thing we still do, and I like that."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-01T14:00:00.000Z",
+    "responses": {
+      "birth_year": 2001,
+      "gender": "Male",
+      "nationality": "italian",
+      "residence_country": "Italy",
+      "institution": "University of Milan",
+      "program": "Bachelor's degree",
+      "field_of_study": "Information and Communication Technologies (ICTs)",
+      "day_in_life_2050": "In 2050 my kitchen has a food printer that makes fresh pasta in any shape in two minutes. It is useful when I come home late from the lab. The flour cartridges are made from insects and lentils, so it is cheap and healthy, and the app counts the protein for me. Still, on Fridays I switch it off and make tagliatelle by hand like my father taught me, because it is the only time I really cook. My friends say I am being romantic. Maybe, but the printed pasta never tastes like anything I remember."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-02T04:00:00.000Z",
+    "responses": {
+      "birth_year": 2002,
+      "gender": "Female",
+      "nationality": "spanish",
+      "residence_country": "Spain",
+      "institution": "University of Alicante",
+      "program": "Bachelor's degree",
+      "field_of_study": "Natural Sciences, Mathematics, and Statistics",
+      "day_in_life_2050": "In my day in 2050 I finish work at four, because most of us work shorter weeks now. I go up to the rooftop garden of our building, where we grow tomatoes, beans, peppers and even a small rice tray in water boxes. Tonight it is my turn to cook for the whole floor, so I make a big paella with what we picked and a little chicken from the cooperative. Fourteen people eat together at long tables. Food costs more than before, but sharing it makes it cheaper and much more fun."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-02T18:00:00.000Z",
+    "responses": {
+      "birth_year": 2000,
+      "gender": "Male",
+      "nationality": "french",
+      "residence_country": "France",
+      "institution": "Sorbonne University",
+      "program": "Bachelor's degree",
+      "field_of_study": "Natural Sciences, Mathematics, and Statistics",
+      "day_in_life_2050": "My day in 2050 starts with a message from my nutrition app telling me what I need to eat today based on my sleep and my blood sugar. Breakfast is a green shake, lunch is a bowl delivered to the office, all calculated. It works, I have more energy than my parents had at my age. But in the evening I buy a small piece of real cheese from the market and eat it with bread, and the app shows a little red warning. I accept the warning. Some things are not data."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-03T08:00:00.000Z",
+    "responses": {
+      "birth_year": 1999,
+      "gender": "Female",
+      "nationality": "German",
+      "residence_country": "Germany",
+      "institution": "TU Munich",
+      "program": "Bachelor's degree",
+      "field_of_study": "Information and Communication Technologies (ICTs)",
+      "day_in_life_2050": "In 2050 meat from animals is rare and expensive, so most of what we eat is cultivated or plant based. On Saturdays I go to the weekly market with my son and we buy vegetables, potatoes and a box of cultivated pork for schnitzel. It tastes almost the same as the one my mother made. We cook together and he breads the slices with too much flour, which is my favourite part. I do not miss the old way much. The food changed, but the kitchen did not."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-03T22:00:00.000Z",
+    "responses": {
+      "birth_year": 2003,
+      "gender": "Male",
+      "nationality": "Irish",
+      "residence_country": "Ireland",
+      "institution": "University College Cork",
+      "program": "Bachelor's degree",
+      "field_of_study": "Social Sciences, Journalism, and Information",
+      "day_in_life_2050": "In my day in 2050 the weather decides what we eat. After another wet summer half the harvest is gone, so food comes in a weekly box from the council. Potatoes, oats, some frozen fish if we are lucky. I cook soup for my sister and me on a small induction plate because energy is limited in the evening. Restaurants are for rich people now. I try not to think about it too much, but every year the box gets smaller and the queue gets longer."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-04T12:00:00.000Z",
+    "responses": {
+      "birth_year": 2004,
+      "gender": "Female",
+      "nationality": "English",
+      "residence_country": "United Kingdom",
+      "institution": "Durham University",
+      "program": "Doctoral degree",
+      "field_of_study": "Services (e.g. Tourism, Hospitality, Sports, Personal Services)",
+      "day_in_life_2050": "In 2050 our flat has a cooking robot that prepares dinner while I am still on the train home. It follows recipes from my grandmother's notebook that I scanned years ago, so the curry tastes like hers. I come home, the table is set, and my partner and I eat together without stress. The robot does not do desserts well, so on weekends I bake a crumble with apples from the community orchard. It is small, but it makes the evening feel like ours."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-05T02:00:00.000Z",
+    "responses": {
+      "birth_year": 2002,
+      "gender": "Male",
+      "nationality": "Danish",
+      "residence_country": "Denmark",
+      "institution": "Roskilde University",
+      "program": "Doctoral degree",
+      "field_of_study": "Information and Communication Technologies (ICTs)",
+      "day_in_life_2050": "In 2050 I live alone in a small apartment in Copenhagen and work from home most days. Lunch is rye bread with smoked fish and vegetables from a subscription box. For dinner I usually cook a simple stew in one pot while listening to the radio. Once a week there is a dinner club in the building where everyone brings something. Eating alone does not bother me. I think food in 2050 is less about big families and more about small habits you can keep."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-05T16:00:00.000Z",
+    "responses": {
+      "birth_year": 2001,
+      "gender": "Female",
+      "nationality": "Brazilian",
+      "residence_country": "Portugal",
+      "institution": "University of Lisbon",
+      "program": "Master's degree",
+      "field_of_study": "Arts and Humanities (e.g. History, Languages, Philosophy, Fine Arts)",
+      "day_in_life_2050": "In 2050 I have lived in Porto for twenty years, but I still cook like my mother in São Paulo on special days. Today is my daughter's birthday, so I spend the morning making feijoada with black beans, smoked tofu instead of so much pork, and Portuguese kale from the market. My neighbours bring pastéis de nata. The kitchen is loud and full of two languages. Every year the recipe changes a little, and I think that is how traditions survive."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-06T06:00:00.000Z",
+    "responses": {
+      "birth_year": 2000,
+      "gender": "Female",
+      "nationality": "Italian",
+      "residence_country": "Italy",
+      "institution": "University of Milan",
+      "program": "Master's degree",
+      "field_of_study": "Services (e.g. Tourism, Hospitality, Sports, Personal Services)",
+      "day_in_life_2050": "In 2050 most vegetables in Milan come from vertical farms inside old office buildings. They are clean and cheap, but my family kept my grandmother's garden outside the city. Every weekend I take the train there and work the soil with my cousins. We grow tomatoes, zucchini and basil, and we make sauce together in August. People think it is inefficient. For us it is a way of saying that food is not only a product."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-06T20:00:00.000Z",
+    "responses": {
+      "birth_year": 2004,
+      "gender": "Male",
+      "nationality": "Spain",
+      "residence_country": "Spain",
+      "institution": "University of Alicante",
+      "program": "Master's degree",
+      "field_of_study": "Services (e.g. Tourism, Hospitality, Sports, Personal Services)",
+      "day_in_life_2050": "In my day in 2050 the water allowance in Valencia is strict, and the app shows the water cost of every meal before I cook. Rice became expensive after the long droughts, so paella is only for celebrations. Most days I eat chickpeas, bread and vegetables that need little water. I am not hungry, but I am always counting. Sometimes I worry about what my children will eat if the droughts keep getting worse."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-07T10:00:00.000Z",
+    "responses": {
+      "birth_year": 2002,
+      "gender": "Female",
+      "nationality": "French",
+      "residence_country": "France",
+      "institution": "Sorbonne University",
+      "program": "Bachelor's degree",
+      "field_of_study": "Social Sciences, Journalism, and Information",
+      "day_in_life_2050": "In 2050 I work as a teacher, and the best part of my day is lunch. Our school canteen is also a kitchen class: every week a different group of students cooks for everyone with a chef. Today they made a lentil and vegetable gratin and a fruit tart. The kids know where every ingredient comes from and how much it costs. When I was young most people my age could not cook at all. Now it feels like cooking is coming back."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-08T00:00:00.000Z",
+    "responses": {
+      "birth_year": 2001,
+      "gender": "Male",
+      "nationality": "Turkish",
+      "residence_country": "Germany",
+      "institution": "Technical University of Munich",
+      "program": "Bachelor's degree",
+      "field_of_study": "Services (e.g. Tourism, Hospitality, Sports, Personal Services)",
+      "day_in_life_2050": "In 2050 I work night shifts at the hospital in Berlin. When I come home at seven in the morning, my mother has left a pot of red lentil soup in the shared fridge of our building, with a note. I heat it, add lemon and chili, and eat it by the window while the city wakes up. On my days off I cook for her in return, usually something quick like pasta with vegetables. It is a small exchange, but it keeps us close."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-08T14:00:00.000Z",
+    "responses": {
+      "birth_year": 2002,
+      "gender": "Female",
+      "nationality": "Irish",
+      "residence_country": "Ireland",
+      "institution": "University College Cork",
+      "program": "Bachelor's degree",
+      "field_of_study": "Business, Administration, and Law",
+      "day_in_life_2050": "In 2050 seaweed farming is one of the biggest jobs on the west coast, and I work on one of the farms near Galway. We eat it in soups, breads and even desserts. For dinner I make a stew with potatoes, carrots and kelp, and fish when the quota allows. My friends from the city laugh that everything tastes like the sea. I like it. It feels local and it does not need much land or water."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-09T04:00:00.000Z",
+    "responses": {
+      "birth_year": 1998,
+      "gender": "Male",
+      "nationality": "English",
+      "residence_country": "United Kingdom",
+      "institution": "Durham University",
+      "program": "Master's degree",
+      "field_of_study": "Natural Sciences, Mathematics, and Statistics",
+      "day_in_life_2050": "My typical day in 2050 is efficient. Breakfast and lunch are meal pods delivered every morning, balanced for my training plan, and I barely think about food. It saves time and money. On Friday nights though, I meet friends at the pub, which now serves mostly plant-based pies and chips. We sit for hours. I sometimes feel that food during the week has become fuel, and the weekend is where it is still about people."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-09T18:00:00.000Z",
+    "responses": {
+      "birth_year": 2003,
+      "gender": "Female",
+      "nationality": "Danish",
+      "residence_country": "Denmark",
+      "institution": "Roskilde University",
+      "program": "Master's degree",
+      "field_of_study": "Health and Welfare (e.g. Medicine, Nursing, Social Work)",
+      "day_in_life_2050": "In 2050 our building in Aarhus runs a zero-waste kitchen club. Leftovers from every flat go into a shared kitchen where volunteers turn them into soups, pickles and bread for the next day. Today I helped make carrot top pesto and a big pot of vegetable soup. It sounds strict, but it feels like a game, and food bills are much lower. I think my generation learned to be creative because we had to."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-10T08:00:00.000Z",
+    "responses": {
+      "birth_year": 2000,
+      "gender": "Male",
+      "nationality": "Portugal",
+      "residence_country": "Portugal",
+      "institution": "University of Lisbon",
+      "program": "Bachelor's degree",
+      "field_of_study": "Agriculture, Forestry, Fisheries, and Veterinary",
+      "day_in_life_2050": "In my day in 2050 fish is expensive because the oceans are protected for most of the year. I eat mostly beans, rice and vegetables, and sometimes cultivated fish that tastes fine but not the same. At Christmas my whole family still buys one real piece of bacalhau and cooks it the old way with potatoes and olive oil. It is the most expensive meal of the year. I understand why things changed, but I feel something was lost."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-10T22:00:00.000Z",
+    "responses": {
+      "birth_year": 2004,
+      "gender": "Female",
+      "nationality": "Albanian",
+      "residence_country": "Italy",
+      "institution": "University of Milan",
+      "program": "Doctoral degree",
+      "field_of_study": "Services (e.g. Tourism, Hospitality, Sports, Personal Services)",
+      "day_in_life_2050": "In 2050 I study in Bologna and share a kitchen with five students from different countries. Every evening someone cooks for everyone, so I eat Albanian, Mexican, Korean and Italian food in the same week. Tonight I made byrek with spinach and cheese, and my Korean flatmate added kimchi on the side. It is chaotic and the kitchen is always dirty, but these dinners are the best part of my day."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-11T12:00:00.000Z",
+    "responses": {
+      "birth_year": 1999,
+      "gender": "Female",
+      "nationality": "spanish",
+      "residence_country": "Spain",
+      "institution": "University of Alicante",
+      "program": "Master's degree",
+      "field_of_study": "Education",
+      "day_in_life_2050": "In 2050 the city recommends insect protein for every meal and gives discounts if you follow the plan. I tried it, and the insect burgers are fine, but on Sundays I make a tortilla de patatas with real eggs from a small farm near Madrid, even though they cost more. My friends come over and we eat it warm with bread. I do not want an algorithm to decide every part of my food."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-12T02:00:00.000Z",
+    "responses": {
+      "birth_year": 2003,
+      "gender": "Male",
+      "nationality": "French",
+      "residence_country": "France",
+      "institution": "Sorbonne University",
+      "program": "Bachelor's degree",
+      "field_of_study": "Agriculture, Forestry, Fisheries, and Veterinary",
+      "day_in_life_2050": "In 2050 I work in a building that has a vertical farm in the basement. Every morning I pick up fruit and greens grown downstairs: strawberries, lettuce, herbs. Breakfast is yoghurt with fruit at my desk, and lunch is a salad from the same farm. It is not very romantic, but it is fresh and there is almost no transport. In the evening I cook simple pasta at home and call my parents while I eat."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-12T16:00:00.000Z",
+    "responses": {
+      "birth_year": 2002,
+      "gender": "Female",
+      "nationality": "german",
+      "residence_country": "Germany",
+      "institution": "TU Munich",
+      "program": "Master's degree",
+      "field_of_study": "Agriculture, Forestry, Fisheries, and Veterinary",
+      "day_in_life_2050": "In 2050 almost everything in my kitchen is automated, but in December I bake Christmas cookies by hand from my grandmother's recipes. The flour is from a regional mill and the butter is plant based now, but the tin is the same old blue tin. My brother and I spend a whole weekend baking and arguing about the right shape. The robot cleans up afterwards, which is the only help we accept."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-13T06:00:00.000Z",
+    "responses": {
+      "birth_year": 2001,
+      "gender": "Male",
+      "nationality": "Polish",
+      "residence_country": "Ireland",
+      "institution": "UCC",
+      "program": "Bachelor's degree",
+      "field_of_study": "Business, Administration, and Law",
+      "day_in_life_2050": "In 2050 I live in Dublin in a very small flat, like most young people. The kitchen is one induction plate and a tiny fridge. Most days I eat ready meals or noodles. But once a month I fold pierogi with potato and cheese like my grandmother in Kraków, on a table the size of a laptop. I freeze them and eat them for weeks. Housing changed how we cook more than technology did."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-13T20:00:00.000Z",
+    "responses": {
+      "birth_year": 2000,
+      "gender": "Female",
+      "nationality": "Indian",
+      "residence_country": "United Kingdom",
+      "institution": "Durham University",
+      "program": "Master's degree",
+      "field_of_study": "Arts and Humanities (e.g. History, Languages, Philosophy, Fine Arts)",
+      "day_in_life_2050": "In 2050 I live in Leeds and cook something different every evening. I order spices from a cooperative that works directly with farmers in India and Morocco, and I grow coriander and chilies on my windowsill. Tonight I made a chickpea curry with rice and fresh flatbread. Cooking is my break from work. I think food in 2050 is more connected than ever, even if some ingredients are harder to get."
+    }
+  },
+  {
+    "surveyType": "visions",
+    "createdAt": "2026-03-14T10:00:00.000Z",
+    "responses": {
+      "birth_year": 1997,
+      "gender": "Male",
+      "nationality": "Danish",
+      "residence_country": "Denmark",
+      "institution": "Roskilde University",
+      "program": "Master's degree",
+      "field_of_study": "Arts and Humanities (e.g. History, Languages, Philosophy, Fine Arts)",
+      "day_in_life_2050": "In my day in 2050 the fridge tracks everything and orders groceries automatically from a local shop. It plans dinners for my family of four based on what we have, so we waste almost nothing. Tonight it suggested fish cakes with potatoes and salad. It is convenient and my kids eat better than I did. Still, sometimes I miss walking through a supermarket and buying something just because it looked good."
+    }
+  }
+]

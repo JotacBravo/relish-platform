@@ -1,0 +1,242 @@
+{
+  "mapping": {
+    "Potatoes": [
+      "Potato"
+    ],
+    "Bread": [
+      "Bread"
+    ],
+    "Sausage": [
+      "Sausage"
+    ],
+    "Rice": [
+      "Rice"
+    ],
+    "Bacalhau": [
+      "Bacalhau"
+    ],
+    "Potato": [
+      "Potato"
+    ],
+    "Mustard": [
+      "Mustard"
+    ],
+    "Cabbage": [
+      "Cabbage"
+    ],
+    "Butter": [
+      "Butter"
+    ],
+    "Garlic": [
+      "Garlic"
+    ],
+    "potatoes": [
+      "Potato"
+    ],
+    "olive oil": [
+      "Olive Oil"
+    ],
+    "Parmesan": [
+      "Parmesan"
+    ],
+    "tomatoes": [
+      "Tomato"
+    ],
+    "Tomato": [
+      "Tomato"
+    ],
+    "Basil": [
+      "Basil"
+    ],
+    "garlic": [
+      "Garlic"
+    ],
+    "Cream": [
+      "Cream"
+    ],
+    "Cheese": [
+      "Cheese"
+    ],
+    "Extra virgin olive oil": [
+      "Olive Oil"
+    ],
+    "Lamb": [
+      "Lamb"
+    ],
+    "Ham": [
+      "Ham"
+    ],
+    "Pasta": [
+      "Pasta"
+    ],
+    "Olive Oil": [
+      "Olive Oil"
+    ],
+    "Paprika": [
+      "Paprika"
+    ],
+    "Wine": [
+      "Wine"
+    ],
+    "Egg": [
+      "Egg"
+    ],
+    "Fish": [
+      "Fish"
+    ],
+    "Pork": [
+      "Pork"
+    ],
+    "Beef": [
+      "Beef"
+    ],
+    "Mozzarella": [
+      "Mozzarella"
+    ],
+    "Salmon": [
+      "Salmon"
+    ],
+    "Sardine": [
+      "Sardine"
+    ]
+  },
+  "counts": {
+    "Potato": 3,
+    "Bread": 1,
+    "Sausage": 1,
+    "Rice": 1,
+    "Bacalhau": 1,
+    "Mustard": 1,
+    "Cabbage": 1,
+    "Butter": 1,
+    "Garlic": 2,
+    "Olive Oil": 3,
+    "Parmesan": 1,
+    "Tomato": 2,
+    "Basil": 1,
+    "Cream": 1,
+    "Cheese": 1,
+    "Lamb": 1,
+    "Ham": 1,
+    "Pasta": 1,
+    "Paprika": 1,
+    "Wine": 1,
+    "Egg": 1,
+    "Fish": 1,
+    "Pork": 1,
+    "Beef": 1,
+    "Mozzarella": 1,
+    "Salmon": 1,
+    "Sardine": 1
+  },
+  "top": [
+    [
+      "Potato",
+      3
+    ],
+    [
+      "Olive Oil",
+      3
+    ],
+    [
+      "Garlic",
+      2
+    ],
+    [
+      "Tomato",
+      2
+    ],
+    [
+      "Bread",
+      1
+    ],
+    [
+      "Sausage",
+      1
+    ],
+    [
+      "Rice",
+      1
+    ],
+    [
+      "Bacalhau",
+      1
+    ],
+    [
+      "Mustard",
+      1
+    ],
+    [
+      "Cabbage",
+      1
+    ],
+    [
+      "Butter",
+      1
+    ],
+    [
+      "Parmesan",
+      1
+    ],
+    [
+      "Basil",
+      1
+    ],
+    [
+      "Cream",
+      1
+    ],
+    [
+      "Cheese",
+      1
+    ],
+    [
+      "Lamb",
+      1
+    ],
+    [
+      "Ham",
+      1
+    ],
+    [
+      "Pasta",
+      1
+    ],
+    [
+      "Paprika",
+      1
+    ],
+    [
+      "Wine",
+      1
+    ],
+    [
+      "Egg",
+      1
+    ],
+    [
+      "Fish",
+      1
+    ],
+    [
+      "Pork",
+      1
+    ],
+    [
+      "Beef",
+      1
+    ],
+    [
+      "Mozzarella",
+      1
+    ],
+    [
+      "Salmon",
+      1
+    ],
+    [
+      "Sardine",
+      1
+    ]
+  ]
+}

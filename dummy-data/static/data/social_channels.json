@@ -1,0 +1,74 @@
+{
+  "channels": {
+    "weeknight_kitchen": {
+      "platform": "youtube",
+      "display_name": "Weeknight Kitchen",
+      "url": "",
+      "mentions": 37,
+      "avatar_local": false
+    },
+    "green_pot_diaries": {
+      "platform": "instagram",
+      "display_name": "Green Pot Diaries",
+      "url": "",
+      "mentions": 36,
+      "avatar_local": false
+    },
+    "nonnas_notebook": {
+      "platform": "tiktok",
+      "display_name": "Nonna's Notebook",
+      "url": "",
+      "mentions": 39,
+      "avatar_local": false
+    },
+    "five_euro_feasts": {
+      "platform": "youtube",
+      "display_name": "Five Euro Feasts",
+      "url": "",
+      "mentions": 25,
+      "avatar_local": false
+    },
+    "plant_plate_lab": {
+      "platform": "instagram",
+      "display_name": "Plant Plate Lab",
+      "url": "",
+      "mentions": 24,
+      "avatar_local": false
+    },
+    "one_pan_studio": {
+      "platform": "tiktok",
+      "display_name": "One Pan Studio",
+      "url": "",
+      "mentions": 24,
+      "avatar_local": false
+    },
+    "market_mornings": {
+      "platform": "instagram",
+      "display_name": "Market Mornings",
+      "url": "",
+      "mentions": 20,
+      "avatar_local": false
+    },
+    "spice_atlas": {
+      "platform": "youtube",
+      "display_name": "Spice Atlas",
+      "url": "",
+      "mentions": 12,
+      "avatar_local": false
+    },
+    "bread_and_butter": {
+      "platform": "tiktok",
+      "display_name": "Bread and Butter Club",
+      "url": "",
+      "mentions": 11,
+      "avatar_local": false
+    },
+    "sea_to_table": {
+      "platform": "youtube",
+      "display_name": "Sea to Table",
+      "url": "",
+      "mentions": 11,
+      "avatar_local": false
+    }
+  }
+}

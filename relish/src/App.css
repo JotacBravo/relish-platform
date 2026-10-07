@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Lato:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+html, body { margin: 0; padding: 0; }
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+
+/* Surveys and dashboards sit in a centred column. */
+.App > *:not(.story-fullwidth) {
+  max-width: 750px;
+  width: 100%;
+  background: #fff;
+  border-radius: 12px;
+  padding: 0;
+}
+
+/* Survey body uses the same grey as its header band. */
+.App .sd-root-modern {
+  background: #f2f2f2 !important;
+}
+
+/* Data stories use the full window width. */
+.App > .story-fullwidth {
+  max-width: none;
+  width: 100vw;
+  border-radius: 0;
+  background: none;
+  padding: 0;
+  margin: 0;
+  overflow-x: clip;
+}
+
+.App:has(.story-fullwidth) {
+  padding: 0;
+  margin: 0;
+  background: none;
+  background-color: transparent;
+  min-height: 0;
+  overflow-x: clip;
+}
+
+/* Narrower matrix columns in the surveys. */
+.sd-table__cell:not(.sd-table__cell--empty):not(.sd-table__cell--actions):not(:empty) {
+  min-width: 70px !important;
+}
+
+.sd-matrixdropdown .sd-table__cell--header.sd-table__cell--empty,
+.sd-table__cell--header:not(.sd-table__cell--empty) {
+  min-width: 70px !important;
+}
+
+.sd-table__cell {
+  padding-left: 4px !important;
+  padding-right: 4px !important;
+}
+
+.sd-table__cell--header {
+  max-width: 90px !important;
+}
+
+/* Hide the empty top action bar and its spacing. */
+.sv-components-container-contentTop:has(.sd-action-bar--empty) {
+  display: none;
+}
+
+.sv-components-container-contentTop .sd-body__navigation {
+  padding-top: 0 !important;
+}
+
+.sd-body.sd-body--responsive,
+.sd-body.sd-body--static {
+  padding-top: 0 !important;
+}
+
+/* Let the survey header use the full width. */
+.sv-header__cell-content {
+  max-width: 349% !important;
+  width: 349% !important;
+}
+
+.sd-element__content.sd-question__content:has(.sd-rating) {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 900px) {
+  .App > *:not(.story-fullwidth) {
+    max-width: 90%;
+    padding: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .App > *:not(.story-fullwidth) {
+    max-width: 100%;
+    padding: 0;
+    border-radius: 8px;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 1100px) {
+  .App:not(:has(.story-fullwidth)) {
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0;
+  }
+
+  .App > *:not(.story-fullwidth) {
+    width: auto;
+    max-width: 85vw;
+    padding: 20px;
+    font-size: 14px;
+  }
+}

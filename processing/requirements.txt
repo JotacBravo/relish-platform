@@ -1,0 +1,7 @@
+# Python dependencies of the processing scripts (tested with Python 3.12).
+#   python3 -m venv .venv && .venv/bin/pip install -r processing/requirements.txt
+anthropic==1.11.0        # normalization/, s2_generation/
+vaderSentiment==3.3.2    # sentiment/
+Pillow==12.3.0           # s2_generation/optimize_card_images.py, icons/compress_icons.py
+PyJWT==2.15.1            # Imagen service-account token (generate_story_images.py, generate_menu_icons.py)
+cryptography==50.0.2     # RS256 signing for PyJWT

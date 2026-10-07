@@ -1,0 +1,72 @@
+{
+  "mapping": {
+    "Paella": "Paella",
+    "pasta": "Pasta",
+    "Burger": "Burger",
+    "Pasta": "Pasta",
+    "Lasagna": "Lasagna",
+    "pizza": "Pizza",
+    "Soup": "Soup",
+    "Sushi": "Sushi",
+    "Spaghetti": "Pasta",
+    "Pizza": "Pizza",
+    "Curry": "Curry",
+    "Rice": "Rice",
+    "Fish": "Fish",
+    "sushi": "Sushi"
+  },
+  "counts": {
+    "Paella": 1,
+    "Pasta": 3,
+    "Burger": 1,
+    "Lasagna": 1,
+    "Pizza": 2,
+    "Soup": 1,
+    "Sushi": 2,
+    "Curry": 1,
+    "Rice": 1,
+    "Fish": 1
+  },
+  "top": [
+    [
+      "Pasta",
+      3
+    ],
+    [
+      "Pizza",
+      2
+    ],
+    [
+      "Sushi",
+      2
+    ],
+    [
+      "Paella",
+      1
+    ],
+    [
+      "Burger",
+      1
+    ],
+    [
+      "Lasagna",
+      1
+    ],
+    [
+      "Soup",
+      1
+    ],
+    [
+      "Curry",
+      1
+    ],
+    [
+      "Rice",
+      1
+    ],
+    [
+      "Fish",
+      1
+    ]
+  ]
+}
